@@ -1,4 +1,4 @@
-# USDJPYFXQuick
+#FXQuick
 
 Simple program that pulls ForexFactory pending news reports and ranks them by impact along with giving a quick 
 screenshot of what the USDJPY looks like.
