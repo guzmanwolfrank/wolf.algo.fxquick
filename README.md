@@ -11,4 +11,3 @@ Final program will be a user input that shows input forex pair and news in one s
 
 Still have to mesh code from my other program.
 
-Muahahahaha! 
