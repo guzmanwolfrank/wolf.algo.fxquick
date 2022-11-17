@@ -1,3 +1,12 @@
+# made by Wolfrank :) with forexfactory.com csv
+# Objective of Script:  To easily filter, find and print USD Upcoming Economic Reports
+#link [https://tinyurl.com/ybn435j7] for (csv,ics,json,xml)! 
+
+#visit link above and download CSV to project root file folder! 
+
+#defines CSV data being read and imported from root folder.
+
+
 import requests 
 import pandas as pd
 import numpy as np
@@ -104,13 +113,7 @@ plt.plot(table['mid_c'])
 plt.show()
 
 
-# made by Wolfrank :) with forexfactory.com csv
-# Objective of Script:  To easily filter, find and print USD Upcoming Economic Reports
-#link [https://tinyurl.com/ybn435j7] for (csv,ics,json,xml)! 
 
-#visit link above and download CSV to project root file folder! 
-
-#defines CSV data being read and imported from root folder.
 
 
 #Print different events by impact while showing time and date and hiding Index value.
